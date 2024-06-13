@@ -1,0 +1,87 @@
+[{
+  "_id": {
+    "$oid": "66671b35e3bceaefad9ae7d2"
+  },
+  "name": "Priyanshu",
+  "age": 22,
+  "date_join": {
+    "$date": "2024-06-13T03:11:20.105Z"
+  },
+  "location": "Lucknow",
+  "job": "Developer"
+},
+{
+  "_id": {
+    "$oid": "66671beae3bceaefad9ae7d3"
+  },
+  "name": "Srajan",
+  "age": "19",
+  "job": "Developer",
+  "location": "Lucknow"
+},
+{
+  "_id": {
+    "$oid": "6667e38eb7a97a32f8cdcdfa"
+  },
+  "name": "Pratham",
+  "location": "Lucknow",
+  "job": "Developer"
+},
+{
+  "_id": {
+    "$oid": "6667e4fbb7a97a32f8cdcdfb"
+  },
+  "name": "Vaibhav",
+  "location": "Lucknow",
+  "job": "Network Engineer"
+},
+{
+  "_id": {
+    "$oid": "6667e562b7a97a32f8cdcdfc"
+  },
+  "name": "Utkarsh",
+  "job": "Network Engineer",
+  "location": "Lucknow"
+},
+{
+  "_id": {
+    "$oid": "6667e611b7a97a32f8cdcdfd"
+  },
+  "name": "Ansh",
+  "location": "Lucknow",
+  "job": "Developer"
+},
+{
+  "_id": {
+    "$oid": "6667e611b7a97a32f8cdcdfe"
+  },
+  "name": "Aryan",
+  "location": "Lucknow",
+  "job": "Developer"
+},
+{
+  "_id": {
+    "$oid": "66692e09e054e0e4a4cdcdf6"
+  },
+  "name": "Aryan",
+  "job": "Media Manager",
+  "location": "Lucknow"
+},
+{
+  "_id": {
+    "$oid": "666a64422ebe05759724b726"
+  },
+  "name": "Rohit",
+  "age": 32,
+  "location": "WFH",
+  "job": "HR"
+},
+{
+  "_id": {
+    "$oid": "666a64862ebe05759724b755"
+  },
+  "name": "Virat",
+  "age": 28,
+  "location": "WFH",
+  "job": "HR"
+}]
